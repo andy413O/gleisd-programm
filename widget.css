@@ -1,0 +1,119 @@
+.gleisd-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+}
+
+.gleisd-card {
+  overflow: hidden;
+  border: 1px solid #d8d8d8;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.gleisd-card-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.gleisd-card-body {
+  padding: 16px;
+}
+
+.gleisd-meta,
+.gleisd-status,
+.gleisd-note,
+.gleisd-message,
+.gleisd-open-status,
+.gleisd-today-hours {
+  font-size: 0.95rem;
+}
+
+.gleisd-meta {
+  color: #555;
+}
+
+.gleisd-title {
+  margin: 8px 0;
+  font-size: 1.2rem;
+  line-height: 1.25;
+}
+
+.gleisd-title-extra {
+  font-weight: 400;
+}
+
+.gleisd-description {
+  margin: 8px 0;
+}
+
+.gleisd-status {
+  display: inline-block;
+  margin-bottom: 8px;
+  padding: 3px 8px;
+  border-radius: 4px;
+  background: #eeeeee;
+}
+
+.status-faellt-aus,
+.status-fallt-aus {
+  border-color: #c74343;
+}
+
+.status-faellt-aus .gleisd-status,
+.status-fallt-aus .gleisd-status {
+  background: #c74343;
+  color: #fff;
+}
+
+.status-geaendert .gleisd-status {
+  background: #f2c94c;
+  color: #222;
+}
+
+.gleisd-note {
+  padding: 8px 10px;
+  background: #f5f5f5;
+}
+
+.gleisd-facts {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  gap: 4px 10px;
+  margin: 12px 0;
+}
+
+.gleisd-facts dt {
+  font-weight: 700;
+}
+
+.gleisd-facts dd {
+  margin: 0;
+}
+
+.gleisd-button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 40px;
+  padding: 0 14px;
+  border-radius: 4px;
+  background: #111;
+  color: #fff;
+  text-decoration: none;
+}
+
+.gleisd-open-status {
+  padding: 12px 14px;
+  border-radius: 6px;
+  border: 1px solid #d8d8d8;
+}
+
+.gleisd-open-status.is-open {
+  border-color: #2e7d32;
+}
+
+.gleisd-open-status.is-closed {
+  border-color: #777;
+}
