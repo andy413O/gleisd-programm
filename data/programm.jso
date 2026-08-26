@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-08-26T13:51:38+02:00",
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-26T14:03:51+02:00",
   "timezone": "Europe/Berlin",
+  "categories": [
+    "Einstieg",
+    "Event",
+    "Öffnung",
+    "Session",
+    "Workshop"
+  ],
+  "statuses": [
+    "aktiv"
+  ],
+  "sourceSheets": [
+    "Events",
+    "Kids Session",
+    "Mitternachtssport",
+    "Öffnungszeiten",
+    "Regelmäßige Angebote",
+    "Schnupperrollen",
+    "Workshops"
+  ],
   "todayItems": [
     {
       "date": "2026-08-26",
