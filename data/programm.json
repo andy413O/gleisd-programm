@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-16T14:08:02+02:00",
+  "generatedAt": "2026-09-16T14:38:09+02:00",
   "timezone": "Europe/Berlin",
   "categories": [
-    "Event",
+    "Events",
     "Öffnungszeiten",
-    "Session",
-    "Workshop"
+    "Sessions",
+    "Workshops"
   ],
   "statuses": [
     "aktiv"
@@ -33,7 +33,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 7
@@ -55,7 +54,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 7
@@ -68,11 +66,10 @@
       "end": "20:00",
       "title": "BMX-/Skate-Workshop",
       "status": "aktiv",
-      "category": "Workshop",
+      "category": "Workshops",
       "statusRelevant": false,
       "highlight": false,
       "note": "Anmeldung nötig",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/workshops",
       "sourceSheet": "Workshops",
       "sourceRow": 9
@@ -89,7 +86,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 8
@@ -102,11 +98,10 @@
       "end": "22:00",
       "title": "Ü16 Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 14
@@ -123,7 +118,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 9
@@ -136,11 +130,10 @@
       "end": "11:00",
       "title": "Kids Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Kids Session",
       "sourceRow": 9
@@ -157,7 +150,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 10
@@ -170,11 +162,10 @@
       "end": "22:00",
       "title": "Sommerfest",
       "status": "aktiv",
-      "category": "Event",
+      "category": "Events",
       "statusRelevant": true,
       "highlight": false,
       "note": "Straße für Autos gesperrt",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Events",
       "sourceRow": 7
@@ -187,11 +178,10 @@
       "end": "17:30",
       "title": "Schnupperrollen",
       "status": "aktiv",
-      "category": "Workshop",
+      "category": "Workshops",
       "statusRelevant": false,
       "highlight": false,
       "note": "Anmeldung nötig",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/schnupperrollen",
       "sourceSheet": "Schnupperrollen",
       "sourceRow": 12
@@ -208,7 +198,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 11
@@ -225,7 +214,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 12
@@ -238,11 +226,10 @@
       "end": "21:00",
       "title": "Skate Only",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 15
@@ -259,7 +246,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 13
@@ -272,11 +258,10 @@
       "end": "22:00",
       "title": "Ü16 Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 16
@@ -293,7 +278,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 14
@@ -310,7 +294,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 15
@@ -323,11 +306,10 @@
       "end": "17:30",
       "title": "Schnupperrollen",
       "status": "aktiv",
-      "category": "Workshop",
+      "category": "Workshops",
       "statusRelevant": false,
       "highlight": false,
       "note": "Anmeldung nötig",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/schnupperrollen",
       "sourceSheet": "Schnupperrollen",
       "sourceRow": 13
@@ -344,7 +326,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 16
@@ -361,7 +342,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 17
@@ -374,11 +354,10 @@
       "end": "21:00",
       "title": "Bikes Only",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 17
@@ -395,7 +374,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 18
@@ -408,11 +386,10 @@
       "end": "22:00",
       "title": "Ü16 Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 18
@@ -429,7 +406,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Feiertag: Tag der Deutschen Einheit",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 19
@@ -442,11 +418,10 @@
       "end": "11:00",
       "title": "Kids Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Kids Session",
       "sourceRow": 10
@@ -463,7 +438,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 20
@@ -476,11 +450,10 @@
       "end": "17:30",
       "title": "Schnupperrollen",
       "status": "aktiv",
-      "category": "Workshop",
+      "category": "Workshops",
       "statusRelevant": false,
       "highlight": false,
       "note": "Anmeldung nötig",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/schnupperrollen",
       "sourceSheet": "Schnupperrollen",
       "sourceRow": 14
@@ -497,7 +470,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 21
@@ -514,7 +486,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 22
@@ -527,11 +498,10 @@
       "end": "21:00",
       "title": "FLINTA* Only",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 19
@@ -548,7 +518,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 23
@@ -561,11 +530,10 @@
       "end": "22:00",
       "title": "Ü16 Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 20
@@ -582,7 +550,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 24
@@ -595,11 +562,10 @@
       "end": "24:00",
       "title": "Mitternachtssport",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "Eintritt & Verleih gratis!",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Mitternachtssport",
       "sourceRow": 8
@@ -616,7 +582,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 25
@@ -629,11 +594,10 @@
       "end": "17:30",
       "title": "Schnupperrollen",
       "status": "aktiv",
-      "category": "Workshop",
+      "category": "Workshops",
       "statusRelevant": false,
       "highlight": false,
       "note": "Anmeldung nötig",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/schnupperrollen",
       "sourceSheet": "Schnupperrollen",
       "sourceRow": 15
@@ -650,7 +614,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 26
@@ -667,7 +630,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 27
@@ -680,11 +642,10 @@
       "end": "20:00",
       "title": "BMX-/Skate-Workshop",
       "status": "aktiv",
-      "category": "Workshop",
+      "category": "Workshops",
       "statusRelevant": false,
       "highlight": false,
       "note": "Anmeldung nötig",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/workshops",
       "sourceSheet": "Workshops",
       "sourceRow": 10
@@ -701,7 +662,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 28
@@ -714,11 +674,10 @@
       "end": "22:00",
       "title": "Ü16 Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 21
@@ -735,7 +694,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 29
@@ -748,11 +706,10 @@
       "end": "11:00",
       "title": "Kids Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Kids Session",
       "sourceRow": 11
@@ -769,7 +726,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 30
@@ -782,11 +738,10 @@
       "end": "17:30",
       "title": "Schnupperrollen",
       "status": "aktiv",
-      "category": "Workshop",
+      "category": "Workshops",
       "statusRelevant": false,
       "highlight": false,
       "note": "Anmeldung nötig",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/schnupperrollen",
       "sourceSheet": "Schnupperrollen",
       "sourceRow": 16
@@ -803,7 +758,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 31
@@ -820,7 +774,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 32
@@ -833,11 +786,10 @@
       "end": "21:00",
       "title": "Skate Only",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 22
@@ -854,7 +806,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 33
@@ -867,11 +818,10 @@
       "end": "22:00",
       "title": "Ü16 Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 23
@@ -888,7 +838,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Ferien: Herbstferien Niedersachsen",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 34
@@ -905,7 +854,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 35
@@ -918,11 +866,10 @@
       "end": "17:30",
       "title": "Schnupperrollen",
       "status": "aktiv",
-      "category": "Workshop",
+      "category": "Workshops",
       "statusRelevant": false,
       "highlight": false,
       "note": "Anmeldung nötig",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/schnupperrollen",
       "sourceSheet": "Schnupperrollen",
       "sourceRow": 17
@@ -939,7 +886,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 36
@@ -956,7 +902,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 37
@@ -969,11 +914,10 @@
       "end": "21:00",
       "title": "Blades Only",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 24
@@ -990,7 +934,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 38
@@ -1003,11 +946,10 @@
       "end": "22:00",
       "title": "Ü16 Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 25
@@ -1024,7 +966,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "Feiertag: Reformationstag",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 39
@@ -1037,11 +978,10 @@
       "end": "11:00",
       "title": "Kids Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Kids Session",
       "sourceRow": 12
@@ -1058,7 +998,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 40
@@ -1071,11 +1010,10 @@
       "end": "17:30",
       "title": "Schnupperrollen",
       "status": "aktiv",
-      "category": "Workshop",
+      "category": "Workshops",
       "statusRelevant": false,
       "highlight": false,
       "note": "Anmeldung nötig",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/schnupperrollen",
       "sourceSheet": "Schnupperrollen",
       "sourceRow": 18
@@ -1092,7 +1030,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 41
@@ -1109,7 +1046,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 42
@@ -1122,11 +1058,10 @@
       "end": "21:00",
       "title": "Bikes Only",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 26
@@ -1143,7 +1078,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 43
@@ -1156,11 +1090,10 @@
       "end": "22:00",
       "title": "Ü16 Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 27
@@ -1177,7 +1110,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 44
@@ -1194,7 +1126,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 45
@@ -1207,11 +1138,10 @@
       "end": "17:30",
       "title": "Schnupperrollen",
       "status": "aktiv",
-      "category": "Workshop",
+      "category": "Workshops",
       "statusRelevant": false,
       "highlight": false,
       "note": "Anmeldung nötig",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/schnupperrollen",
       "sourceSheet": "Schnupperrollen",
       "sourceRow": 19
@@ -1228,7 +1158,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 46
@@ -1245,7 +1174,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 47
@@ -1258,11 +1186,10 @@
       "end": "21:00",
       "title": "FLINTA* Only",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 28
@@ -1279,7 +1206,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 48
@@ -1292,11 +1218,10 @@
       "end": "22:00",
       "title": "Ü16 Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 29
@@ -1313,7 +1238,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 49
@@ -1326,11 +1250,10 @@
       "end": "24:00",
       "title": "Mitternachtssport",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "Eintritt & Verleih gratis!",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Mitternachtssport",
       "sourceRow": 9
@@ -1343,11 +1266,10 @@
       "end": "11:00",
       "title": "Kids Session",
       "status": "aktiv",
-      "category": "Session",
+      "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Kids Session",
       "sourceRow": 13
@@ -1364,7 +1286,6 @@
       "statusRelevant": true,
       "highlight": false,
       "note": "",
-      "holidayInfo": "",
       "url": "https://www.gleis-d.de/",
       "sourceSheet": "Öffnungszeiten",
       "sourceRow": 50
