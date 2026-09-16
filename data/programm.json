@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-16T14:38:09+02:00",
+  "generatedAt": "2026-09-16T14:40:57+02:00",
   "timezone": "Europe/Berlin",
   "categories": [
     "Events",
@@ -9,7 +9,9 @@
     "Workshops"
   ],
   "statuses": [
-    "aktiv"
+    "aktiv",
+    "fällt aus",
+    "geändert"
   ],
   "sourceSheets": [
     "Events",
@@ -40,7 +42,40 @@
   ],
   "currentItems": [],
   "upcomingHighlights": [],
-  "cancelledItems": [],
+  "cancelledItems": [
+    {
+      "date": "2026-09-18",
+      "startsAt": "2026-09-18T18:00:00+02:00",
+      "endsAt": "2026-09-18T22:00:00+02:00",
+      "start": "18:00",
+      "end": "22:00",
+      "title": "Ü16 Session",
+      "status": "geändert",
+      "category": "Sessions",
+      "statusRelevant": true,
+      "highlight": false,
+      "note": "endet 15min früher",
+      "url": "https://www.gleis-d.de/programm",
+      "sourceSheet": "Regelmäßige Angebote",
+      "sourceRow": 14
+    },
+    {
+      "date": "2026-09-20",
+      "startsAt": "2026-09-20T09:00:00+02:00",
+      "endsAt": "2026-09-20T11:00:00+02:00",
+      "start": "09:00",
+      "end": "11:00",
+      "title": "Kids Session",
+      "status": "fällt aus",
+      "category": "Sessions",
+      "statusRelevant": true,
+      "highlight": false,
+      "note": "",
+      "url": "https://www.gleis-d.de/programm",
+      "sourceSheet": "Kids Session",
+      "sourceRow": 9
+    }
+  ],
   "allItems": [
     {
       "date": "2026-09-16",
@@ -97,11 +132,11 @@
       "start": "18:00",
       "end": "22:00",
       "title": "Ü16 Session",
-      "status": "aktiv",
+      "status": "geändert",
       "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
-      "note": "",
+      "note": "endet 15min früher",
       "url": "https://www.gleis-d.de/programm",
       "sourceSheet": "Regelmäßige Angebote",
       "sourceRow": 14
@@ -129,7 +164,7 @@
       "start": "09:00",
       "end": "11:00",
       "title": "Kids Session",
-      "status": "aktiv",
+      "status": "fällt aus",
       "category": "Sessions",
       "statusRelevant": true,
       "highlight": false,
