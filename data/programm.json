@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-21T18:29:38+02:00",
+  "generatedAt": "2026-09-25T16:37:32+02:00",
   "timezone": "Europe/Berlin",
   "categories": [
     "Events",
@@ -18,161 +18,11 @@
     "Kids Session",
     "Mitternachtssport",
     "Öffnungszeiten",
-    "Regelmäßige Angebote",
     "Schnupperrollen",
+    "Sessions",
     "Workshops"
   ],
   "todayItems": [
-    {
-      "date": "2026-09-21",
-      "startsAt": "2026-09-21T13:00:00+02:00",
-      "endsAt": "2026-09-21T21:00:00+02:00",
-      "start": "13:00",
-      "end": "21:00",
-      "title": "Offener Betrieb",
-      "status": "aktiv",
-      "category": "Öffnungszeiten",
-      "statusRelevant": true,
-      "highlight": false,
-      "note": "",
-      "url": "https://www.gleis-d.de/",
-      "sourceSheet": "Öffnungszeiten",
-      "sourceRow": 11
-    },
-    {
-      "date": "2026-09-21",
-      "startsAt": "2026-09-21T23:00:00+02:00",
-      "endsAt": "2026-09-22T00:00:00+02:00",
-      "start": "23:00",
-      "end": "00:00",
-      "title": "Skate Only",
-      "status": "aktiv",
-      "category": "Sessions",
-      "statusRelevant": true,
-      "highlight": false,
-      "note": "",
-      "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
-      "sourceRow": 15
-    }
-  ],
-  "currentItems": [
-    {
-      "date": "2026-09-21",
-      "startsAt": "2026-09-21T13:00:00+02:00",
-      "endsAt": "2026-09-21T21:00:00+02:00",
-      "start": "13:00",
-      "end": "21:00",
-      "title": "Offener Betrieb",
-      "status": "aktiv",
-      "category": "Öffnungszeiten",
-      "statusRelevant": true,
-      "highlight": false,
-      "note": "",
-      "url": "https://www.gleis-d.de/",
-      "sourceSheet": "Öffnungszeiten",
-      "sourceRow": 11
-    }
-  ],
-  "upcomingHighlights": [],
-  "cancelledItems": [],
-  "allItems": [
-    {
-      "date": "2026-09-21",
-      "startsAt": "2026-09-21T13:00:00+02:00",
-      "endsAt": "2026-09-21T21:00:00+02:00",
-      "start": "13:00",
-      "end": "21:00",
-      "title": "Offener Betrieb",
-      "status": "aktiv",
-      "category": "Öffnungszeiten",
-      "statusRelevant": true,
-      "highlight": false,
-      "note": "",
-      "url": "https://www.gleis-d.de/",
-      "sourceSheet": "Öffnungszeiten",
-      "sourceRow": 11
-    },
-    {
-      "date": "2026-09-21",
-      "startsAt": "2026-09-21T16:00:00+02:00",
-      "endsAt": "2026-09-21T17:30:00+02:00",
-      "start": "16:00",
-      "end": "17:30",
-      "title": "Schnupperrollen",
-      "status": "aktiv",
-      "category": "Workshops",
-      "statusRelevant": false,
-      "highlight": false,
-      "note": "Anmeldung nötig",
-      "url": "https://www.gleis-d.de/schnupperrollen",
-      "sourceSheet": "Schnupperrollen",
-      "sourceRow": 12
-    },
-    {
-      "date": "2026-09-21",
-      "startsAt": "2026-09-21T23:00:00+02:00",
-      "endsAt": "2026-09-22T00:00:00+02:00",
-      "start": "23:00",
-      "end": "00:00",
-      "title": "Skate Only",
-      "status": "aktiv",
-      "category": "Sessions",
-      "statusRelevant": true,
-      "highlight": false,
-      "note": "",
-      "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
-      "sourceRow": 15
-    },
-    {
-      "date": "2026-09-22",
-      "startsAt": "2026-09-22T15:00:00+02:00",
-      "endsAt": "2026-09-22T21:00:00+02:00",
-      "start": "15:00",
-      "end": "21:00",
-      "title": "Offener Betrieb",
-      "status": "aktiv",
-      "category": "Öffnungszeiten",
-      "statusRelevant": true,
-      "highlight": false,
-      "note": "",
-      "url": "https://www.gleis-d.de/",
-      "sourceSheet": "Öffnungszeiten",
-      "sourceRow": 12
-    },
-    {
-      "date": "2026-09-23",
-      "startsAt": "2026-09-23T15:00:00+02:00",
-      "endsAt": "2026-09-23T21:00:00+02:00",
-      "start": "15:00",
-      "end": "21:00",
-      "title": "Offener Betrieb",
-      "status": "aktiv",
-      "category": "Öffnungszeiten",
-      "statusRelevant": true,
-      "highlight": false,
-      "note": "",
-      "url": "https://www.gleis-d.de/",
-      "sourceSheet": "Öffnungszeiten",
-      "sourceRow": 13
-    },
-    {
-      "date": "2026-09-24",
-      "startsAt": "2026-09-24T18:00:00+02:00",
-      "endsAt": "2026-09-24T21:00:00+02:00",
-      "start": "18:00",
-      "end": "21:00",
-      "title": "Skate Only",
-      "status": "aktiv",
-      "category": "Sessions",
-      "statusRelevant": true,
-      "highlight": false,
-      "note": "",
-      "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
-      "sourceRow": 16
-    },
     {
       "date": "2026-09-25",
       "startsAt": "2026-09-25T15:00:00+02:00",
@@ -202,7 +52,61 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
+      "sourceRow": 17
+    }
+  ],
+  "currentItems": [
+    {
+      "date": "2026-09-25",
+      "startsAt": "2026-09-25T15:00:00+02:00",
+      "endsAt": "2026-09-25T18:00:00+02:00",
+      "start": "15:00",
+      "end": "18:00",
+      "title": "Offener Betrieb",
+      "status": "aktiv",
+      "category": "Öffnungszeiten",
+      "statusRelevant": true,
+      "highlight": false,
+      "note": "",
+      "url": "https://www.gleis-d.de/",
+      "sourceSheet": "Öffnungszeiten",
+      "sourceRow": 14
+    }
+  ],
+  "upcomingHighlights": [],
+  "cancelledItems": [],
+  "allItems": [
+    {
+      "date": "2026-09-25",
+      "startsAt": "2026-09-25T15:00:00+02:00",
+      "endsAt": "2026-09-25T18:00:00+02:00",
+      "start": "15:00",
+      "end": "18:00",
+      "title": "Offener Betrieb",
+      "status": "aktiv",
+      "category": "Öffnungszeiten",
+      "statusRelevant": true,
+      "highlight": false,
+      "note": "",
+      "url": "https://www.gleis-d.de/",
+      "sourceSheet": "Öffnungszeiten",
+      "sourceRow": 14
+    },
+    {
+      "date": "2026-09-25",
+      "startsAt": "2026-09-25T18:00:00+02:00",
+      "endsAt": "2026-09-25T22:00:00+02:00",
+      "start": "18:00",
+      "end": "22:00",
+      "title": "Ü16 Session",
+      "status": "aktiv",
+      "category": "Sessions",
+      "statusRelevant": true,
+      "highlight": false,
+      "note": "",
+      "url": "https://www.gleis-d.de/programm",
+      "sourceSheet": "Sessions",
       "sourceRow": 17
     },
     {
@@ -298,7 +202,7 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
       "sourceRow": 18
     },
     {
@@ -330,7 +234,7 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
       "sourceRow": 19
     },
     {
@@ -442,7 +346,7 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
       "sourceRow": 20
     },
     {
@@ -474,7 +378,7 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
       "sourceRow": 21
     },
     {
@@ -618,7 +522,7 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
       "sourceRow": 22
     },
     {
@@ -730,7 +634,7 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
       "sourceRow": 23
     },
     {
@@ -762,7 +666,7 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
       "sourceRow": 24
     },
     {
@@ -858,7 +762,7 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
       "sourceRow": 25
     },
     {
@@ -890,7 +794,7 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
       "sourceRow": 26
     },
     {
@@ -1002,7 +906,7 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
       "sourceRow": 27
     },
     {
@@ -1034,7 +938,7 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
       "sourceRow": 28
     },
     {
@@ -1130,7 +1034,7 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
       "sourceRow": 29
     },
     {
@@ -1162,7 +1066,7 @@
       "highlight": false,
       "note": "",
       "url": "https://www.gleis-d.de/programm",
-      "sourceSheet": "Regelmäßige Angebote",
+      "sourceSheet": "Sessions",
       "sourceRow": 30
     },
     {
